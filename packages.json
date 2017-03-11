@@ -1,5 +1,5 @@
 {
-    'jq': {
-        'image': 'dlacewell/jq'
+    "jq": {
+        "image": "dlacewell/jq"
     }
 }
